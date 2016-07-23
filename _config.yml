@@ -1,19 +1,19 @@
 # Site settings
 title: Halo's Blog
-SEOTitle: 你的博客 | Halo's Blog
+SEOTitle: Halo的博客 | Halo's Blog
 header-img: img/home-bg.jpg
 email: wuyihuangw@gmail.com
 description: "技术宅，学生"
-keyword: ""
+keyword: "Halo's Blog"
 url: "http://ayhalo.com"              # your host, for absolute URL
-baseurl: "/halo"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     Halo1236
-zhihu_username:     Halo1236
+weibo_username:     Halo12368
+zhihu_username:     风吹草动114
 github_username:    Halo1236
 
 
@@ -67,7 +67,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-halo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-halo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
