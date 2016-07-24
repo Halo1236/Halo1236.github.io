@@ -8,7 +8,6 @@ header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - Android
     - Linux
-	- OS
 ---
 
 ##Android启动分为三个阶段：bootloader引导，linux kernel启动，android启动。
