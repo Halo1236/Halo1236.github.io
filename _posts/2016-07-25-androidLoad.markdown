@@ -10,7 +10,7 @@ tags:
     - Linux
 ---
 
-##Android启动分为三个阶段：bootloader引导，linux kernel启动，android启动。
+###Android启动分为三个阶段：bootloader引导，linux kernel启动，android启动。
 
 Bootloader启动阶段: bootloader是在操作系统运行之前运行的一段程序，可以初始化硬件设备、建立内存空间映射图，从而将系统的软硬件环境带到一个合适状态，以便为最终调用操作系统内核准备好正确的环境。当你开机时，机器首先要启动，CPU最先执行的一段程序就是BootLoader，这和电脑上的BIOS是一个玩意儿。Bootloader下可以进入recovery和fastboot模式。
 
