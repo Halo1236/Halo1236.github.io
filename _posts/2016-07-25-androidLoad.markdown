@@ -4,6 +4,7 @@ date: 		2016-07-25
 title: 		"Android启动流程"
 subtitle:   "Android入门笔记整理"
 author:     "Halo"
+catalog:    true
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - Android
